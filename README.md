@@ -1,4 +1,4 @@
-![CodeImprover Logo](./Images/CodeImprover-logo-noback.png) 
+![CodeImprover Logo](./Images/CodeImprover-small-logo-title.png) 
 ***
 ## CodeImprover is a set of tools to measure source code quality. 
 
