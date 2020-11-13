@@ -4,7 +4,7 @@ ___
 ## CodeImprover is a set of tools to measure source code quality. 
 
 CodeImprover reads the source code pushed to GitHub and uses different kinds of algorithms to calculate metrics for code quality. Code quality is in this context a measure of the developer’s ability to fix system errors, adjust features, and expand the system over time in a fast and reliable way without introducing errors. Code quality is maintainability.  
-Get an overview of CodeImprover [here](https://codeimprover.com/how-it-works-illustrated/)  
+Get an overview of CodeImprover [here](https://codeimprover.com/how-it-works-illustrated/) or start using the [GitHub app now](https://github.com/apps/codeimprover)
 
 # CodeImprover GitHub App
 The GitHub App analyzes every commit and every pull request calculates the quality Observation Score and Quality Rating.  
