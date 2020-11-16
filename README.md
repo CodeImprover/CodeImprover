@@ -12,7 +12,8 @@ Se <https://codeimprover.com/products/>
 
 
 ## CodeImprover Web Portal
-The CodeImprover Web Portal provides code quality information across developers on a timeline. It also provides analysis of complete branches.  
+The CodeImprover Web Portal provides code quality information across developers on a timeline. It also offers status analyzes of complete branches and. 
+Last but not least, it offers data about Programmers code coverage, making it possible to evaluate how well the current staff of programmers know the codebase
 Se <https://codeimprover.com/products/>
 
  
