@@ -7,7 +7,7 @@ CodeImprover reads the source code pushed to GitHub and uses different kinds of 
 Get an overview of CodeImprover [here](https://codeimprover.com/how-it-works-illustrated) or start using the [CodeImprover GitHub app now](https://github.com/apps/codeimprover)
 
 ## CodeImprover GitHub App
-The GitHub App analyzes every commit and every pull request calculates the quality [Observation Score and Quality Rating](https://codeimprover.com/key-concept-observation-scores-ratings).  
+The GitHub App analyzes every commit and every pull request calculates the quality [Observation Score and Rating](https://codeimprover.com/key-concept-observation-scores-ratings).  
 Se how it works [here](https://codeimprover.com/how-it-works-toc) 
 
 
