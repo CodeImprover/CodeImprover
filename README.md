@@ -8,7 +8,7 @@ Get an overview of CodeImprover [here](https://codeimprover.com/how-it-works-ill
 
 ## CodeImprover GitHub App
 The GitHub App analyzes every commit and every pull request and calculates the code quality [Observation Score and Rating](https://codeimprover.com/key-concept-observation-scores-ratings).  
-Se how it works [here](https://codeimprover.com/how-it-works-toc) 
+Se how it works [here](https://codeimprover.com/how-it-works-toc) or start using it [now](https://github.com/apps/codeimprover)
 
 
 ## CodeImprover Web Portal
