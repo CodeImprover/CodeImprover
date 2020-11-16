@@ -12,7 +12,7 @@ Se how it works [here](https://codeimprover.com/how-it-works-toc)
 
 
 ## CodeImprover Web Portal
-The CodeImprover Web Portal provides code quality information across developers on a timeline. It also offers status analyzes of complete branches and. 
+The CodeImprover Web Portal provides code quality information across developers on a timeline. It also offers status analyzes of complete branches. 
 Last but not least, it offers data about Programmers code coverage, making it possible to evaluate how well the current staff of programmers know the codebase
 The CodeImprover Web Portal is expected to ship early 2021.   
 Sign up for [early access to the CodeImprover Web Portal](https://codeimprover.com/get-started-with-the-codeimprover-web-portal)
