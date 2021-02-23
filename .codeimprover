@@ -1,0 +1,14 @@
+{
+  "duplicationConfig": {
+    "exclusions": {
+      "pathPatterns": [
+        "\\.g\\.cs$"
+      ],
+      "linePatterns": [
+        "using \\S+;"
+      ]
+    },
+    "markCheckAsFailedOnFoundDuplication": true,
+    "numberOfLinesToCompare": 7
+  }
+}
