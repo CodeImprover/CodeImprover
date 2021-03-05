@@ -8,7 +8,6 @@
         "using \\S+;"
       ]
     },
-    "markCheckAsFailedOnFoundDuplication": true,
-    "numberOfLinesToCompare": 7
+   "numberOfLinesToCompare": 7
   }
 }
