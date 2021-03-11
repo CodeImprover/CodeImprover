@@ -6,5 +6,5 @@ duplicationConfig:
       - \.yml$
       - \.md$
     linePatterns:
-      - //\S+;     
+      - //\S+;  # exclude lines with leading comment markup    
     numberOfLinesToCompare: 7

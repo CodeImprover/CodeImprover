@@ -2,9 +2,11 @@ duplicationConfig:
   #Below patters are in reugular exporession
   exclusions:
     pathPatterns:
+      - \.csproj$
       - \.json$
+      - \.map$
       - \.yml$
       - \.md$
     linePatterns:
-      - //\S+;     
+      - using \S+;      
     numberOfLinesToCompare: 7
