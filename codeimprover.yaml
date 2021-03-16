@@ -3,7 +3,7 @@ duplicationConfig:
   exclusions:
     pathPatterns:
       - \.json$
-      - \.yml$
+      - \.yaml$
       - \.md$
     linePatterns:
       - //\S+;     
