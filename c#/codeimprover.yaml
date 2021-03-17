@@ -6,7 +6,7 @@ duplicationConfig:
       - \.csproj$
       - \.json$
       - \.map$
-      - \.yml$
+      - \.yaml$
       - \.md$
       - CodeImproverContext.cs
     linePatterns:
