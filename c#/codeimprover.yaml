@@ -1,12 +1,14 @@
 duplicationConfig:
-  #Below patters are in reugular exporession
+  #Below patters are in regular expression
   exclusions:
     pathPatterns:
+      - \.g\.cs$
       - \.csproj$
       - \.json$
       - \.map$
       - \.yml$
       - \.md$
+      - CodeImproverContext.cs
     linePatterns:
       - using \S+;      
-    numberOfLinesToCompare: 7
+  numberOfLinesToCompare: 7
