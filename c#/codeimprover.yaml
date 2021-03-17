@@ -1,4 +1,5 @@
 duplicationConfig:
+  numberOfLinesToCompare: 7
   #Below patters are in regular expression
   exclusions:
     pathPatterns:
@@ -10,5 +11,4 @@ duplicationConfig:
       - \.md$
       - CodeImproverContext.cs
     linePatterns:
-      - using \S+;      
-  numberOfLinesToCompare: 7
+      - using \S+;
