@@ -3,8 +3,8 @@ duplicationConfig:
   exclusions:
     pathPatterns:
       - \.json$
-      - \.yml$
+      - \.yaml$
       - \.md$
     linePatterns:
       - //\S+;  # exclude lines with leading comment markup    
-    numberOfLinesToCompare: 7
+  numberOfLinesToCompare: 7
