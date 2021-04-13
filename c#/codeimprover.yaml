@@ -9,6 +9,5 @@ duplicationConfig:
       - \.map$
       - \.yaml$
       - \.md$
-      - CodeImproverContext.cs
     linePatterns:
       - using \S+;
