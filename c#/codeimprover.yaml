@@ -2,12 +2,9 @@ duplicationConfig:
   numberOfLinesToCompare: 7
   #Below patters are in regular expression
   exclusions:
-    pathPatterns:
-      - \.g\.cs$
+    pathPatterns:      
       - \.csproj$
-      - \.json$
-      - \.map$
-      - \.yaml$
+      - \.json$      
       - \.md$
     linePatterns:
       - using \S+;
