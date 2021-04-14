@@ -1,4 +1,5 @@
 duplicationConfig:
+  # How many lines of code must be identical to make a duplication
   numberOfLinesToCompare: 7
   #Below patters are in reugular exporession
   exclusions:
