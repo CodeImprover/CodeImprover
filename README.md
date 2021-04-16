@@ -19,7 +19,7 @@ The behavior of the app is extremely flexible and can be configured  in the [cod
 
 **Configuration of duplication detection depends on programming language**  
 You probably want to change the configuration file (codeimprover.yaml) to suit your programming language. 
-We encourage you to contribute your codeimprover.yaml. 
+We encourage you to contribute your codeimprover.yaml file to this open source repository. 
 
 ## CodeImprover Web Portal
 The CodeImprover Web Portal provides code quality information across developers on a timeline. It also offers status analyzes of complete branches. 
