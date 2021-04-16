@@ -14,8 +14,8 @@ The GitHub App analyzes every commit and every pull request and calculates the c
 Start using it [now](https://github.com/marketplace?query=CodeImprover)
 
 ## CodeImprover Duplication GitHub App
-The GitHub app checks if the committe code contains a sequense of text that already exists anywhere in the repo.
-The behaviour of the app is extreamly flexible and can be configured in the [codeimprover.yaml configuration file](https://codeimprover.com/techref/codeimprover-config/). 
+The GitHub app checks if the committed code contains a sequence of text that already exists anywhere in the repo. 
+The behavior of the app is extremely flexible and can be configured  in the [codeimprover.yaml configuration file](https://codeimprover.com/techref/codeimprover-config/). 
 
 **Configuration of duplication detection depends on programming language**  
 You probably change the configuration to suit your programming language. 
