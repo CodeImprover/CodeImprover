@@ -18,7 +18,7 @@ The GitHub app checks if the committed code contains a sequence of text that alr
 The behavior of the app is extremely flexible and can be configured  in the [codeimprover.yaml configuration file](https://codeimprover.com/techref/codeimprover-config/). 
 
 **Configuration of duplication detection depends on programming language**  
-You probably change the configuration to suit your programming language. 
+You probably want to change the configuration file (codeimprover.yaml) to suit your programming language. 
 We encourage you to contribute your codeimprover.yaml. 
 
 ## CodeImprover Web Portal
