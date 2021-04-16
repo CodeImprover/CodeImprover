@@ -15,8 +15,11 @@ Start using it [now](https://github.com/marketplace?query=CodeImprover)
 
 ## CodeImprover Duplication GitHub App
 The GitHub app checks if the committe code contains a sequense of text that already exists anywhere in the repo.
-The behaviour of the app is extreamly flexible and can be configured in the .codeimprover configuration file.
-The app is expected to ship in the GitHub marketplace 1Q 2021
+The behaviour of the app is extreamly flexible and can be configured in the [codeimprover.yaml configuration file](https://codeimprover.com/techref/codeimprover-config/). 
+
+**Cofiguration of duplication detection depends on programming language**  
+You probably change the configuration to suit your programming language. 
+We encourage you to contribute your codeimprover.yaml. 
 
 ## CodeImprover Web Portal
 The CodeImprover Web Portal provides code quality information across developers on a timeline. It also offers status analyzes of complete branches. 
