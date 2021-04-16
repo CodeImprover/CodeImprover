@@ -17,7 +17,7 @@ Start using it [now](https://github.com/marketplace?query=CodeImprover)
 The GitHub app checks if the committe code contains a sequense of text that already exists anywhere in the repo.
 The behaviour of the app is extreamly flexible and can be configured in the [codeimprover.yaml configuration file](https://codeimprover.com/techref/codeimprover-config/). 
 
-**Cofiguration of duplication detection depends on programming language**  
+**Configuration of duplication detection depends on programming language**  
 You probably change the configuration to suit your programming language. 
 We encourage you to contribute your codeimprover.yaml. 
 
